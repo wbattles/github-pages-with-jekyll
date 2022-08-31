@@ -1,4 +1,4 @@
-title: "Hello Darlin'"
+title: "Hello Darlin"
 date: 2022-08-31
 
 Hello, darlin'
