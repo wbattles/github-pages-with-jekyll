@@ -1,3 +1,6 @@
+title: "Hello Darlin'"
+date: 2022-08-31
+
 Hello, darlin'
 Nice to see you
 It's been a long time
